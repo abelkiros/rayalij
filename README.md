@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a postive impact in my community, I always love to learn. 
 - 🌱 I’m currently learning to showcase my skills 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @abel.m.kiros@gmail.com
 
 <!---
 rayalij/rayalij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
